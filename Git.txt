@@ -1,6 +1,6 @@
-$ git init
-$ git remote add origin https://github.com/jgrossi01/JS05htmlInteraction.git
-$ git add .
-$ git commit -m ProbandoBash
-$ git push -u origin master
+git init
+git remote add origin https://github.com/jgrossi01/JS05htmlInteraction.git
+git add .
+git commit -m ProbandoBash
+git push -u origin master
 
